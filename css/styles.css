@@ -1,0 +1,26 @@
+h1{
+  color: red;
+  font-size: 50px;
+}
+/*
+tag selectors*/
+img:hover{
+  background-color: gold;
+}
+
+
+/*class selectors*/
+.bacon{
+  background-color: green;
+}
+.brcli{
+  background-color: red;
+
+}
+.circular{
+  border-radius: 100%;
+}
+
+#heading{
+  color: grey;
+}
